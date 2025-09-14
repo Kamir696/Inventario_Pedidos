@@ -1,11 +1,14 @@
 # Inventarios_Pedidos
 
-ELINIMAR PRODUCTO 
+# **ELIMINAR PRODUCTO**
 
-![Eliminar productor](image-2.png)
+![alt text](Eliminar Producto.pn)
 
 
-
-EDITAR PRODUCTO 
+# **EDITAR PRODUCTO**
 
 ![Editar Produtos](image-1.png)
+
+
+# **EDITAR PRODUCTO**
+
