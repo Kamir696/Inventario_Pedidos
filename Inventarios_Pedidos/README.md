@@ -2,7 +2,7 @@
 
 # **ELIMINAR PRODUCTO**
 
-![alt text](Eliminar Producto.pn)
+![alt text](Eliminar-Producto.png)
 
 
 # **EDITAR PRODUCTO**
