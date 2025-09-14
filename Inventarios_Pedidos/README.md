@@ -7,8 +7,24 @@
 
 # **EDITAR PRODUCTO**
 
-![Editar Produtos](image-1.png)
+![Editar Produtos](EditarProductos.png)
 
 
-# **EDITAR PRODUCTO**
+# **LISTAR PRODUCTO**
 
+![Listar Producto](ListarProducto.png)
+
+
+# **MENU PRINCIPAL**
+
+![Menu Principal](MenuPrincipal.png)
+
+
+# **REGISTRO DE PRODUCTO**
+
+![Registro Producto](RegistroProducto.png)
+
+
+# **SALIR DEL PROGRAMA**
+
+![Salir Programa](SalirPrograma.png)
